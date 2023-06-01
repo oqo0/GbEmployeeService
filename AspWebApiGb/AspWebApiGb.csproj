@@ -1,0 +1,44 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+        <PackageReference Include="Grpc.AspNetCore" Version="2.53.0" />
+        <PackageReference Include="Grpc.Tools" Version="2.54.0">
+          <PrivateAssets>all</PrivateAssets>
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.16" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.5">
+          <PrivateAssets>all</PrivateAssets>
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="NLog" Version="5.1.4" />
+        <PackageReference Include="NLog.Web.AspNetCore" Version="5.2.3" />
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+        <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.30.1" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Content Update="nlog.config">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\EmployeeServiceData\EmployeeServiceData.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="Proto\employee.proto" />
+      <Protobuf Include="Proto\employee.proto" />
+      <None Remove="Proto\department.proto" />
+      <Protobuf Include="Proto\department.proto" />
+    </ItemGroup>
+
+</Project>

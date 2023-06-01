@@ -1,0 +1,962 @@
+2023-05-23 02:27:34.6925 Info Message Template Auto Format enabled
+2023-05-23 02:27:34.7165 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-23 02:27:34.8030 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-05-23 02:27:34.8041 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-23 02:27:34.8041 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-23 02:27:34.8422 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-23 02:27:35.0446 Info Validating config: TargetNames=allfile, lifetimeConsole, ownFile-web, ConfigItems=54, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-23 02:28:16.5589 Info Shutdown() called. Logger closing...
+2023-05-23 02:28:16.5593 Info Closing old configuration.
+2023-05-23 02:28:16.5754 Info Logger has been closed down.
+2023-05-23 02:31:19.0612 Info Message Template Auto Format enabled
+2023-05-23 02:31:19.0945 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-23 02:31:19.1941 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-23 02:31:19.1941 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-23 02:31:19.2077 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-23 02:31:19.2313 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-23 02:31:19.4147 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-23 02:32:15.1928 Info Shutdown() called. Logger closing...
+2023-05-23 02:32:15.1931 Info Closing old configuration.
+2023-05-23 02:32:15.2080 Info Logger has been closed down.
+2023-05-23 02:51:56.0978 Info Message Template Auto Format enabled
+2023-05-23 02:51:56.1210 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-23 02:51:56.2038 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-23 02:51:56.2046 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-23 02:51:56.2169 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-23 02:51:56.2434 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-23 02:51:56.4660 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-23 02:53:28.8061 Info Shutdown() called. Logger closing...
+2023-05-23 02:53:28.8061 Info Closing old configuration.
+2023-05-23 02:53:28.8226 Info Logger has been closed down.
+2023-05-23 02:58:14.5910 Info Message Template Auto Format enabled
+2023-05-23 02:58:14.6197 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-23 02:58:14.7008 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-23 02:58:14.7016 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-23 02:58:14.7151 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-23 02:58:14.7438 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-23 02:58:14.9478 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-23 02:58:20.2991 Info Shutdown() called. Logger closing...
+2023-05-23 02:58:20.2991 Info Closing old configuration.
+2023-05-23 02:58:20.3146 Info Logger has been closed down.
+2023-05-24 19:37:22.9756 Info Message Template Auto Format enabled
+2023-05-24 19:37:22.9940 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-24 19:37:23.0543 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-24 19:37:23.0548 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-24 19:37:23.0647 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-24 19:37:23.1073 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-24 19:37:23.3895 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-24 19:37:23.4315 Info Shutdown() called. Logger closing...
+2023-05-24 19:37:23.4315 Info Closing old configuration.
+2023-05-24 19:37:23.4533 Info Logger has been closed down.
+2023-05-24 19:42:52.3724 Info Message Template Auto Format enabled
+2023-05-24 19:42:52.3920 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-24 19:42:52.4509 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-24 19:42:52.4509 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-24 19:42:52.4618 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-24 19:42:52.5005 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-24 19:42:52.7038 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-24 19:42:52.7544 Info Shutdown() called. Logger closing...
+2023-05-24 19:42:52.7544 Info Closing old configuration.
+2023-05-24 19:42:52.7764 Info Logger has been closed down.
+2023-05-24 19:47:24.0676 Info Message Template Auto Format enabled
+2023-05-24 19:47:24.0888 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-24 19:47:24.1448 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-24 19:47:24.1448 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-24 19:47:24.1543 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-24 19:47:24.1807 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-24 19:47:24.3897 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-24 19:47:24.4303 Info Shutdown() called. Logger closing...
+2023-05-24 19:47:24.4303 Info Closing old configuration.
+2023-05-24 19:47:24.4525 Info Logger has been closed down.
+2023-05-24 22:13:27.0512 Info Message Template Auto Format enabled
+2023-05-24 22:13:27.0878 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-24 22:13:27.1970 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-24 22:13:27.1980 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-24 22:13:27.2131 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-24 22:13:27.2461 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-24 22:13:27.5716 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-24 22:13:33.1043 Info Shutdown() called. Logger closing...
+2023-05-24 22:13:33.1043 Info Closing old configuration.
+2023-05-24 22:13:33.1203 Info Logger has been closed down.
+2023-05-24 22:19:25.9571 Info Message Template Auto Format enabled
+2023-05-24 22:19:25.9799 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-24 22:19:26.0613 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-24 22:19:26.0622 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-24 22:19:26.0748 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-24 22:19:26.1028 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-24 22:19:26.3684 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-24 22:19:32.4141 Info Shutdown() called. Logger closing...
+2023-05-24 22:19:32.4141 Info Closing old configuration.
+2023-05-24 22:19:32.4359 Info Logger has been closed down.
+2023-05-25 02:08:46.2619 Info Message Template Auto Format enabled
+2023-05-25 02:08:46.2866 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-25 02:08:46.3675 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-25 02:08:46.3683 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-25 02:08:46.3802 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-25 02:08:46.4083 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-25 02:08:46.6686 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-25 02:08:54.2026 Info Shutdown() called. Logger closing...
+2023-05-25 02:08:54.2032 Info Closing old configuration.
+2023-05-25 02:08:54.2353 Info Logger has been closed down.
+2023-05-25 03:22:20.7884 Info Message Template Auto Format enabled
+2023-05-25 03:22:20.8171 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-25 03:22:20.9062 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-25 03:22:20.9071 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-25 03:22:20.9197 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-25 03:22:20.9488 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-25 03:22:21.2201 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-25 03:22:33.7064 Info Shutdown() called. Logger closing...
+2023-05-25 03:22:33.7064 Info Closing old configuration.
+2023-05-25 03:22:33.7204 Info Logger has been closed down.
+2023-05-25 22:02:36.6178 Info Message Template Auto Format enabled
+2023-05-25 22:02:36.6461 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-25 22:02:36.7251 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-25 22:02:36.7259 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-25 22:02:36.7369 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-25 22:02:36.7622 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-25 22:02:36.9950 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-25 22:02:44.3394 Info Shutdown() called. Logger closing...
+2023-05-25 22:02:44.3394 Info Closing old configuration.
+2023-05-25 22:02:44.3547 Info Logger has been closed down.
+2023-05-25 22:27:17.6355 Info Message Template Auto Format enabled
+2023-05-25 22:27:17.6631 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-25 22:27:17.7393 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-25 22:27:17.7400 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-25 22:27:17.7516 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-25 22:27:17.7799 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-25 22:27:18.0250 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-25 22:27:21.5645 Info Shutdown() called. Logger closing...
+2023-05-25 22:27:21.5645 Info Closing old configuration.
+2023-05-25 22:27:21.5936 Info Logger has been closed down.
+2023-05-25 22:54:48.1398 Info Message Template Auto Format enabled
+2023-05-25 22:54:48.1617 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-25 22:54:48.2345 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-25 22:54:48.2356 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-25 22:54:48.2477 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-25 22:54:48.2740 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-25 22:54:48.5150 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-25 22:54:55.0446 Info Shutdown() called. Logger closing...
+2023-05-25 22:54:55.0446 Info Closing old configuration.
+2023-05-25 22:54:55.0721 Info Logger has been closed down.
+2023-05-26 03:17:49.2854 Info Message Template Auto Format enabled
+2023-05-26 03:17:49.3128 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 03:17:49.4061 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 03:17:49.4070 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 03:17:49.4197 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 03:17:49.4481 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 03:17:49.7190 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 03:17:53.7860 Info Shutdown() called. Logger closing...
+2023-05-26 03:17:53.7860 Info Closing old configuration.
+2023-05-26 03:17:53.8076 Info Logger has been closed down.
+2023-05-26 03:19:22.2610 Info Message Template Auto Format enabled
+2023-05-26 03:19:22.2846 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 03:19:22.3730 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 03:19:22.3738 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 03:19:22.3865 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 03:19:22.4124 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 03:44:16.6750 Info Message Template Auto Format enabled
+2023-05-26 03:44:16.6953 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 03:44:16.7539 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 03:44:16.7587 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 03:44:16.7682 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 03:44:16.7894 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 03:44:16.9908 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 03:44:17.0348 Info Shutdown() called. Logger closing...
+2023-05-26 03:44:17.0348 Info Closing old configuration.
+2023-05-26 03:44:17.0600 Info Logger has been closed down.
+2023-05-26 03:45:18.8065 Info Message Template Auto Format enabled
+2023-05-26 03:45:18.8263 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 03:45:18.8851 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 03:45:18.8857 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 03:45:18.8962 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 03:45:18.9210 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 03:45:19.1359 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 03:45:19.1801 Info Shutdown() called. Logger closing...
+2023-05-26 03:45:19.1801 Info Closing old configuration.
+2023-05-26 03:45:19.2071 Info Logger has been closed down.
+2023-05-26 04:26:22.4769 Info Message Template Auto Format enabled
+2023-05-26 04:26:22.4963 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 04:26:22.5592 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 04:26:22.5598 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 04:26:22.5706 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 04:26:22.5924 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 04:26:22.8040 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 04:26:22.8531 Info Shutdown() called. Logger closing...
+2023-05-26 04:26:22.8531 Info Closing old configuration.
+2023-05-26 04:26:22.8800 Info Logger has been closed down.
+2023-05-26 16:40:56.3217 Info Message Template Auto Format enabled
+2023-05-26 16:40:56.3466 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 16:40:56.4063 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 16:40:56.4073 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 16:40:56.4205 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 16:40:56.4420 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:40:56.6525 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:40:56.6975 Info Shutdown() called. Logger closing...
+2023-05-26 16:40:56.6975 Info Closing old configuration.
+2023-05-26 16:40:56.7223 Info Logger has been closed down.
+2023-05-26 16:42:33.6655 Info Message Template Auto Format enabled
+2023-05-26 16:42:33.6857 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 16:42:33.7465 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 16:42:33.7470 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 16:42:33.7573 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 16:42:33.7781 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:42:33.9759 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:42:34.0199 Info Shutdown() called. Logger closing...
+2023-05-26 16:42:34.0199 Info Closing old configuration.
+2023-05-26 16:42:34.0461 Info Logger has been closed down.
+2023-05-26 16:43:19.6480 Info Message Template Auto Format enabled
+2023-05-26 16:43:19.6691 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 16:43:19.7263 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 16:43:19.7268 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 16:43:19.7371 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 16:43:19.7588 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:43:19.9605 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:43:20.0090 Info Shutdown() called. Logger closing...
+2023-05-26 16:43:20.0090 Info Closing old configuration.
+2023-05-26 16:43:20.0355 Info Logger has been closed down.
+2023-05-26 16:44:50.7957 Info Message Template Auto Format enabled
+2023-05-26 16:44:50.8168 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 16:44:50.8731 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 16:44:50.8737 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 16:44:50.8842 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 16:44:50.9073 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:44:51.1075 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:44:51.1495 Info Shutdown() called. Logger closing...
+2023-05-26 16:44:51.1495 Info Closing old configuration.
+2023-05-26 16:44:51.1766 Info Logger has been closed down.
+2023-05-26 16:48:05.2382 Info Message Template Auto Format enabled
+2023-05-26 16:48:05.2596 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 16:48:05.3264 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 16:48:05.3270 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 16:48:05.3383 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 16:48:05.3663 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:48:05.5854 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:48:05.6334 Info Shutdown() called. Logger closing...
+2023-05-26 16:48:05.6334 Info Closing old configuration.
+2023-05-26 16:48:05.6621 Info Logger has been closed down.
+2023-05-26 16:48:32.5490 Info Message Template Auto Format enabled
+2023-05-26 16:48:32.5689 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 16:48:32.6224 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 16:48:32.6229 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 16:48:32.6317 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 16:48:32.6528 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:48:32.8452 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:48:32.8878 Info Shutdown() called. Logger closing...
+2023-05-26 16:48:32.8878 Info Closing old configuration.
+2023-05-26 16:48:32.9127 Info Logger has been closed down.
+2023-05-26 16:49:37.8501 Info Message Template Auto Format enabled
+2023-05-26 16:49:37.8687 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 16:49:37.9223 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 16:49:37.9227 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 16:49:37.9325 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 16:49:37.9537 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:49:38.1619 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:49:38.2023 Info Shutdown() called. Logger closing...
+2023-05-26 16:49:38.2023 Info Closing old configuration.
+2023-05-26 16:49:38.2277 Info Logger has been closed down.
+2023-05-26 16:51:14.0335 Info Message Template Auto Format enabled
+2023-05-26 16:51:14.0530 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 16:51:14.1097 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 16:51:14.1097 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 16:51:14.1203 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 16:51:14.1422 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:51:14.3532 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:51:14.3976 Info Shutdown() called. Logger closing...
+2023-05-26 16:51:14.3977 Info Closing old configuration.
+2023-05-26 16:51:14.4294 Info Logger has been closed down.
+2023-05-26 16:53:18.8278 Info Message Template Auto Format enabled
+2023-05-26 16:53:18.8477 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 16:53:18.9077 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 16:53:18.9077 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 16:53:18.9193 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 16:53:18.9432 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:53:19.1405 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:53:19.1903 Info Shutdown() called. Logger closing...
+2023-05-26 16:53:19.1903 Info Closing old configuration.
+2023-05-26 16:53:19.2174 Info Logger has been closed down.
+2023-05-26 16:54:41.7887 Info Message Template Auto Format enabled
+2023-05-26 16:54:41.8087 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 16:54:41.8647 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 16:54:41.8647 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 16:54:41.8761 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 16:54:41.8982 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:54:42.0985 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:54:42.1407 Info Shutdown() called. Logger closing...
+2023-05-26 16:54:42.1407 Info Closing old configuration.
+2023-05-26 16:54:42.1670 Info Logger has been closed down.
+2023-05-26 16:55:18.5936 Info Message Template Auto Format enabled
+2023-05-26 16:55:18.6121 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 16:55:18.6676 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 16:55:18.6681 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 16:55:18.6774 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 16:55:18.6991 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:55:18.9087 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 16:55:18.9537 Info Shutdown() called. Logger closing...
+2023-05-26 16:55:18.9537 Info Closing old configuration.
+2023-05-26 16:55:18.9814 Info Logger has been closed down.
+2023-05-26 20:30:33.1598 Info Message Template Auto Format enabled
+2023-05-26 20:30:33.1892 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 20:30:33.2817 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 20:30:33.2828 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 20:30:33.2969 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 20:30:33.3293 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 20:30:33.6368 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 20:31:15.8883 Info Shutdown() called. Logger closing...
+2023-05-26 20:31:15.8897 Info Closing old configuration.
+2023-05-26 20:31:15.9073 Info Logger has been closed down.
+2023-05-26 21:06:52.1220 Info Message Template Auto Format enabled
+2023-05-26 21:06:52.1457 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 21:06:52.2278 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 21:06:52.2278 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 21:06:52.2393 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 21:06:52.2706 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 21:06:52.5173 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 21:08:29.0844 Info Shutdown() called. Logger closing...
+2023-05-26 21:08:29.0846 Info Closing old configuration.
+2023-05-26 21:08:29.1080 Info Logger has been closed down.
+2023-05-26 21:29:02.7037 Info Message Template Auto Format enabled
+2023-05-26 21:29:02.7261 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 21:29:02.8062 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 21:29:02.8070 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 21:29:02.8208 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 21:29:02.8479 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 21:29:03.0981 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 21:30:33.0764 Info Shutdown() called. Logger closing...
+2023-05-26 21:30:33.0767 Info Closing old configuration.
+2023-05-26 21:30:33.1078 Info Logger has been closed down.
+2023-05-26 22:06:43.2112 Info Message Template Auto Format enabled
+2023-05-26 22:06:43.2344 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 22:06:43.3142 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 22:06:43.3150 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 22:06:43.3265 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 22:06:43.3515 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 22:06:43.5905 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 22:07:22.9739 Info Shutdown() called. Logger closing...
+2023-05-26 22:07:22.9739 Info Closing old configuration.
+2023-05-26 22:07:22.9922 Info Logger has been closed down.
+2023-05-26 22:12:41.2735 Info Message Template Auto Format enabled
+2023-05-26 22:12:41.2976 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 22:12:41.3768 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 22:12:41.3768 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 22:12:41.3903 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 22:12:41.4169 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 22:12:41.6684 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 22:14:29.8836 Info Shutdown() called. Logger closing...
+2023-05-26 22:14:29.8838 Info Closing old configuration.
+2023-05-26 22:14:29.9046 Info Logger has been closed down.
+2023-05-26 22:31:40.2169 Info Message Template Auto Format enabled
+2023-05-26 22:31:40.2411 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-26 22:31:40.3243 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-26 22:31:40.3251 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-26 22:31:40.3373 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-26 22:31:40.3636 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 22:31:40.6208 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-26 22:33:49.7485 Info Shutdown() called. Logger closing...
+2023-05-26 22:33:49.7491 Info Closing old configuration.
+2023-05-26 22:33:49.7775 Info Logger has been closed down.
+2023-05-27 01:56:54.1300 Info Message Template Auto Format enabled
+2023-05-27 01:56:54.1512 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-27 01:56:54.2323 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-27 01:56:54.2332 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-27 01:56:54.2458 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-27 01:56:54.2729 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 01:56:54.5338 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 01:56:59.2935 Info Shutdown() called. Logger closing...
+2023-05-27 01:56:59.2937 Info Closing old configuration.
+2023-05-27 01:56:59.3144 Info Logger has been closed down.
+2023-05-27 03:13:54.9403 Info Message Template Auto Format enabled
+2023-05-27 03:13:54.9621 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-27 03:13:55.0229 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-27 03:13:55.0237 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-27 03:13:55.0338 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-27 03:13:55.0571 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:13:55.2885 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:13:55.3404 Info Shutdown() called. Logger closing...
+2023-05-27 03:13:55.3404 Info Closing old configuration.
+2023-05-27 03:13:55.3630 Info Logger has been closed down.
+2023-05-27 03:14:11.1094 Info Message Template Auto Format enabled
+2023-05-27 03:14:11.1305 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-27 03:14:11.1926 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-27 03:14:11.1932 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-27 03:14:11.2046 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-27 03:14:11.2279 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:14:11.4486 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:14:11.4983 Info Shutdown() called. Logger closing...
+2023-05-27 03:14:11.4983 Info Closing old configuration.
+2023-05-27 03:14:11.5286 Info Logger has been closed down.
+2023-05-27 03:16:03.7807 Info Message Template Auto Format enabled
+2023-05-27 03:16:03.8036 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-27 03:16:03.8787 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-27 03:16:03.8787 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-27 03:16:03.8919 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-27 03:16:03.9195 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:16:04.1408 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:16:04.2044 Info Shutdown() called. Logger closing...
+2023-05-27 03:16:04.2044 Info Closing old configuration.
+2023-05-27 03:16:04.2323 Info Logger has been closed down.
+2023-05-27 03:16:26.3916 Info Message Template Auto Format enabled
+2023-05-27 03:16:26.4108 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-27 03:16:26.4688 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-27 03:16:26.4688 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-27 03:16:26.4800 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-27 03:16:26.5021 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:16:26.7066 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:16:26.7509 Info Shutdown() called. Logger closing...
+2023-05-27 03:16:26.7509 Info Closing old configuration.
+2023-05-27 03:16:26.7769 Info Logger has been closed down.
+2023-05-27 03:17:22.5725 Info Message Template Auto Format enabled
+2023-05-27 03:17:22.5910 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-27 03:17:22.6471 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-27 03:17:22.6477 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-27 03:17:22.6579 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-27 03:17:22.6854 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:17:22.8858 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:17:22.9280 Info Shutdown() called. Logger closing...
+2023-05-27 03:17:22.9280 Info Closing old configuration.
+2023-05-27 03:17:22.9535 Info Logger has been closed down.
+2023-05-27 03:18:31.4657 Info Message Template Auto Format enabled
+2023-05-27 03:18:31.4872 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-27 03:18:31.5481 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-27 03:18:31.5488 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-27 03:18:31.5589 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-27 03:18:31.5797 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:18:31.7777 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:18:31.8185 Info Shutdown() called. Logger closing...
+2023-05-27 03:18:31.8187 Info Closing old configuration.
+2023-05-27 03:18:31.8485 Info Logger has been closed down.
+2023-05-27 03:19:01.5928 Info Message Template Auto Format enabled
+2023-05-27 03:19:01.6110 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-27 03:19:01.6644 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-27 03:19:01.6650 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-27 03:19:01.6739 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-27 03:19:01.6937 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:19:01.8825 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:19:01.9233 Info Shutdown() called. Logger closing...
+2023-05-27 03:19:01.9233 Info Closing old configuration.
+2023-05-27 03:19:01.9471 Info Logger has been closed down.
+2023-05-27 03:24:40.2537 Info Message Template Auto Format enabled
+2023-05-27 03:24:40.2742 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-27 03:24:40.3333 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-27 03:24:40.3338 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-27 03:24:40.3430 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-27 03:24:40.3650 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:24:40.5656 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:24:40.6115 Info Shutdown() called. Logger closing...
+2023-05-27 03:24:40.6115 Info Closing old configuration.
+2023-05-27 03:24:40.6348 Info Logger has been closed down.
+2023-05-27 03:24:52.6526 Info Message Template Auto Format enabled
+2023-05-27 03:24:52.6717 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-27 03:24:52.7300 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-27 03:24:52.7300 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-27 03:24:52.7400 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-27 03:24:52.7624 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:24:52.9731 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:24:53.0155 Info Shutdown() called. Logger closing...
+2023-05-27 03:24:53.0156 Info Closing old configuration.
+2023-05-27 03:24:53.0363 Info Logger has been closed down.
+2023-05-27 03:29:21.2575 Info Message Template Auto Format enabled
+2023-05-27 03:29:21.2762 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-27 03:29:21.3335 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-27 03:29:21.3344 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-27 03:29:21.3451 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-27 03:29:21.3664 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:29:21.5608 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:29:21.6030 Info Shutdown() called. Logger closing...
+2023-05-27 03:29:21.6030 Info Closing old configuration.
+2023-05-27 03:29:21.6277 Info Logger has been closed down.
+2023-05-27 03:29:32.5485 Info Message Template Auto Format enabled
+2023-05-27 03:29:32.5681 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-27 03:29:32.6236 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-27 03:29:32.6242 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-27 03:29:32.6343 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-27 03:29:32.6555 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:29:32.8562 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 03:29:32.9796 Info Shutdown() called. Logger closing...
+2023-05-27 03:29:32.9798 Info Closing old configuration.
+2023-05-27 03:29:33.0081 Info Logger has been closed down.
+2023-05-27 04:34:54.2960 Info Message Template Auto Format enabled
+2023-05-27 04:34:54.3173 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-27 04:34:54.3769 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-27 04:34:54.3769 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-27 04:34:54.3888 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-27 04:34:54.4106 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 04:34:54.6168 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 04:34:54.6647 Info Shutdown() called. Logger closing...
+2023-05-27 04:34:54.6647 Info Closing old configuration.
+2023-05-27 04:34:54.6963 Info Logger has been closed down.
+2023-05-27 04:35:09.3283 Info Message Template Auto Format enabled
+2023-05-27 04:35:09.3497 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-27 04:35:09.4087 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-27 04:35:09.4087 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-27 04:35:09.4208 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-27 04:35:09.4435 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 04:35:09.6462 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-27 04:35:09.6967 Info Shutdown() called. Logger closing...
+2023-05-27 04:35:09.6967 Info Closing old configuration.
+2023-05-27 04:35:09.7183 Info Logger has been closed down.
+2023-05-28 21:49:48.0580 Info Message Template Auto Format enabled
+2023-05-28 21:49:48.1633 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-28 21:49:48.2453 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-28 21:49:48.2453 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-28 21:49:48.2570 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-28 21:49:48.2846 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-28 21:49:48.5580 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-28 21:50:06.1937 Info Shutdown() called. Logger closing...
+2023-05-28 21:50:06.1941 Info Closing old configuration.
+2023-05-28 21:50:06.2121 Info Logger has been closed down.
+2023-05-28 22:26:34.8795 Info Message Template Auto Format enabled
+2023-05-28 22:26:34.9041 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-28 22:26:34.9933 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-28 22:26:34.9933 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-28 22:26:35.0066 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-28 22:26:35.0345 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-28 22:26:35.3336 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-28 22:28:08.9838 Info Shutdown() called. Logger closing...
+2023-05-28 22:28:08.9838 Info Closing old configuration.
+2023-05-28 22:28:09.0016 Info Logger has been closed down.
+2023-05-28 22:30:22.5198 Info Message Template Auto Format enabled
+2023-05-28 22:30:22.5532 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-28 22:30:22.6619 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-28 22:30:22.6632 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-28 22:30:22.6799 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-28 22:30:22.7168 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-28 22:30:23.0639 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-28 22:30:33.1048 Info Shutdown() called. Logger closing...
+2023-05-28 22:30:33.1048 Info Closing old configuration.
+2023-05-28 22:30:33.1221 Info Logger has been closed down.
+2023-05-28 22:34:08.3723 Info Message Template Auto Format enabled
+2023-05-28 22:34:08.3966 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-28 22:34:08.4847 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-28 22:34:08.4854 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-28 22:34:08.4974 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-28 22:34:08.5255 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-28 22:34:08.8052 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-28 22:34:22.4053 Info Shutdown() called. Logger closing...
+2023-05-28 22:34:22.4053 Info Closing old configuration.
+2023-05-28 22:34:22.4205 Info Logger has been closed down.
+2023-05-28 22:34:41.0195 Info Message Template Auto Format enabled
+2023-05-28 22:34:41.0424 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-28 22:34:41.1202 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-28 22:34:41.1202 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-28 22:34:41.1335 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-28 22:34:41.1627 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-28 22:34:41.4098 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-28 22:35:14.4291 Info Shutdown() called. Logger closing...
+2023-05-28 22:35:14.4291 Info Closing old configuration.
+2023-05-28 22:35:14.4514 Info Logger has been closed down.
+2023-05-29 04:16:37.9230 Info Message Template Auto Format enabled
+2023-05-29 04:16:37.9463 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-29 04:16:38.0280 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-29 04:16:38.0288 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-29 04:16:38.0411 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-29 04:16:38.0679 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-29 04:16:38.3300 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-29 04:17:31.3416 Info Shutdown() called. Logger closing...
+2023-05-29 04:17:31.3416 Info Closing old configuration.
+2023-05-29 04:17:31.3702 Info Logger has been closed down.
+2023-05-29 04:17:41.1455 Info Message Template Auto Format enabled
+2023-05-29 04:17:41.1704 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-29 04:17:41.2559 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-29 04:17:41.2567 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-29 04:17:41.2700 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-29 04:17:41.3001 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-29 04:17:41.5634 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-29 04:19:49.8541 Info Shutdown() called. Logger closing...
+2023-05-29 04:19:49.8541 Info Closing old configuration.
+2023-05-29 04:19:49.8730 Info Logger has been closed down.
+2023-05-29 04:27:45.5572 Info Message Template Auto Format enabled
+2023-05-29 04:27:45.5791 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-29 04:27:45.6586 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-29 04:27:45.6594 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-29 04:27:45.6708 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-29 04:27:45.6948 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-29 04:27:45.9400 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-29 04:28:57.8357 Info Shutdown() called. Logger closing...
+2023-05-29 04:28:57.8357 Info Closing old configuration.
+2023-05-29 04:28:57.8549 Info Logger has been closed down.
+2023-05-29 04:34:22.0172 Info Message Template Auto Format enabled
+2023-05-29 04:34:22.0402 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-29 04:34:22.1258 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-29 04:34:22.1269 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-29 04:34:22.1393 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-29 04:34:22.1693 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-29 04:34:22.4546 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-29 04:35:08.0116 Info Shutdown() called. Logger closing...
+2023-05-29 04:35:08.0116 Info Closing old configuration.
+2023-05-29 04:35:08.0355 Info Logger has been closed down.
+2023-05-29 04:35:23.2017 Info Message Template Auto Format enabled
+2023-05-29 04:35:23.2230 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-29 04:35:23.2997 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-29 04:35:23.3006 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-29 04:35:23.3126 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-29 04:35:23.3370 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-29 04:35:23.5785 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-29 04:38:23.1578 Info Shutdown() called. Logger closing...
+2023-05-29 04:38:23.1578 Info Closing old configuration.
+2023-05-29 04:38:23.1773 Info Logger has been closed down.
+2023-05-29 04:52:10.8137 Info Message Template Auto Format enabled
+2023-05-29 04:52:10.8382 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-29 04:52:10.9146 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-29 04:52:10.9154 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-29 04:52:10.9290 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-29 04:52:10.9538 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-29 04:52:11.2442 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-29 04:52:23.7043 Info Shutdown() called. Logger closing...
+2023-05-29 04:52:23.7043 Info Closing old configuration.
+2023-05-29 04:52:23.7233 Info Logger has been closed down.
+2023-05-30 00:29:34.3561 Info Message Template Auto Format enabled
+2023-05-30 00:29:34.3797 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 00:29:34.4618 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 00:29:34.4626 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 00:29:34.4755 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 00:29:34.5026 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 00:29:34.7557 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 00:29:50.0585 Info Shutdown() called. Logger closing...
+2023-05-30 00:29:50.0585 Info Closing old configuration.
+2023-05-30 00:29:50.0783 Info Logger has been closed down.
+2023-05-30 00:30:02.1578 Info Message Template Auto Format enabled
+2023-05-30 00:30:02.1797 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 00:30:02.2767 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 00:30:02.2778 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 00:30:02.2935 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 00:30:02.3266 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 00:30:02.6227 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 00:33:01.2130 Info Shutdown() called. Logger closing...
+2023-05-30 00:33:01.2132 Info Closing old configuration.
+2023-05-30 00:33:01.2281 Info Logger has been closed down.
+2023-05-30 00:33:09.8062 Info Message Template Auto Format enabled
+2023-05-30 00:33:09.8310 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 00:33:09.9208 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 00:33:09.9215 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 00:33:09.9341 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 00:33:09.9610 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 00:33:10.2359 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 00:33:47.4154 Info Shutdown() called. Logger closing...
+2023-05-30 00:33:47.4154 Info Closing old configuration.
+2023-05-30 00:33:47.4487 Info Logger has been closed down.
+2023-05-30 01:20:14.9712 Info Message Template Auto Format enabled
+2023-05-30 01:20:14.9942 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 01:20:15.0795 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 01:20:15.0816 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 01:20:15.0944 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 01:20:15.1257 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 01:20:15.4166 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 01:26:36.9392 Info Shutdown() called. Logger closing...
+2023-05-30 01:26:36.9392 Info Closing old configuration.
+2023-05-30 01:26:36.9601 Info Logger has been closed down.
+2023-05-30 02:47:42.8746 Info Message Template Auto Format enabled
+2023-05-30 02:47:42.8956 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 02:47:42.9716 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 02:47:42.9724 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 02:47:42.9836 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 02:47:43.0100 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 02:47:43.2621 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 02:49:11.9550 Info Shutdown() called. Logger closing...
+2023-05-30 02:49:11.9553 Info Closing old configuration.
+2023-05-30 02:49:11.9779 Info Logger has been closed down.
+2023-05-30 03:35:43.2272 Info Message Template Auto Format enabled
+2023-05-30 03:35:43.2538 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 03:35:43.3490 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 03:35:43.3499 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 03:35:43.3633 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 03:35:43.3925 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 03:35:43.6882 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 04:06:51.7257 Info Message Template Auto Format enabled
+2023-05-30 04:06:51.7503 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 04:06:51.8314 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 04:06:51.8314 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 04:06:51.8437 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 04:06:51.8702 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 04:06:52.1336 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 04:12:28.0401 Info Shutdown() called. Logger closing...
+2023-05-30 04:12:28.0401 Info Closing old configuration.
+2023-05-30 04:12:28.0637 Info Logger has been closed down.
+2023-05-30 04:13:41.3687 Info Message Template Auto Format enabled
+2023-05-30 04:13:41.3950 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 04:13:41.4864 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 04:13:41.4874 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 04:13:41.5008 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 04:13:41.5395 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 04:13:41.9598 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 04:14:26.0945 Info Shutdown() called. Logger closing...
+2023-05-30 04:14:26.0945 Info Closing old configuration.
+2023-05-30 04:14:26.1132 Info Logger has been closed down.
+2023-05-30 04:16:58.3282 Info Message Template Auto Format enabled
+2023-05-30 04:16:58.3527 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 04:16:58.4404 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 04:16:58.4417 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 04:16:58.4538 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 04:16:58.4837 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 04:16:58.7639 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 04:21:48.3669 Info Shutdown() called. Logger closing...
+2023-05-30 04:21:48.3672 Info Closing old configuration.
+2023-05-30 04:21:48.3866 Info Logger has been closed down.
+2023-05-30 04:23:23.5046 Info Message Template Auto Format enabled
+2023-05-30 04:23:23.5364 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 04:23:23.6511 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 04:23:23.6511 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 04:23:23.6653 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 04:23:23.6993 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 04:23:24.0060 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 04:25:03.1036 Info Shutdown() called. Logger closing...
+2023-05-30 04:25:03.1036 Info Closing old configuration.
+2023-05-30 04:25:03.1195 Info Logger has been closed down.
+2023-05-30 04:26:45.7319 Info Message Template Auto Format enabled
+2023-05-30 04:26:45.7596 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 04:26:45.8452 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 04:26:45.8452 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 04:26:45.8588 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 04:26:45.8860 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 04:26:46.1326 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 04:27:17.9899 Info Shutdown() called. Logger closing...
+2023-05-30 04:27:17.9902 Info Closing old configuration.
+2023-05-30 04:27:18.0045 Info Logger has been closed down.
+2023-05-30 04:28:57.7288 Info Message Template Auto Format enabled
+2023-05-30 04:28:57.7544 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 04:28:57.8354 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 04:28:57.8354 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 04:28:57.8480 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 04:28:57.8739 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 04:28:58.1429 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 04:29:27.4665 Info Shutdown() called. Logger closing...
+2023-05-30 04:29:27.4665 Info Closing old configuration.
+2023-05-30 04:29:27.4814 Info Logger has been closed down.
+2023-05-30 04:30:50.5828 Info Message Template Auto Format enabled
+2023-05-30 04:30:50.6068 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 04:30:50.6765 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 04:30:50.6772 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 04:30:50.6879 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 04:30:50.7107 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 04:30:50.9517 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 04:33:09.7158 Info Shutdown() called. Logger closing...
+2023-05-30 04:33:09.7161 Info Closing old configuration.
+2023-05-30 04:33:09.7446 Info Logger has been closed down.
+2023-05-30 04:33:24.5766 Info Message Template Auto Format enabled
+2023-05-30 04:33:24.5977 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 04:33:24.6777 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 04:33:24.6785 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 04:33:24.6904 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 04:33:24.7151 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 04:33:24.9477 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 04:34:01.0894 Info Shutdown() called. Logger closing...
+2023-05-30 04:34:01.0894 Info Closing old configuration.
+2023-05-30 04:34:01.1092 Info Logger has been closed down.
+2023-05-30 07:50:18.7918 Info Message Template Auto Format enabled
+2023-05-30 07:50:18.8160 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 07:50:18.8913 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 07:50:18.8920 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 07:50:18.9030 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 07:50:18.9267 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 07:50:19.1873 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 07:51:37.4266 Info Shutdown() called. Logger closing...
+2023-05-30 07:51:37.4268 Info Closing old configuration.
+2023-05-30 07:51:37.4569 Info Logger has been closed down.
+2023-05-30 07:52:46.5666 Info Message Template Auto Format enabled
+2023-05-30 07:52:46.5881 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 07:52:46.6710 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 07:52:46.6718 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 07:52:46.6860 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 07:52:46.7220 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 07:52:47.0103 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 07:53:46.7048 Info Shutdown() called. Logger closing...
+2023-05-30 07:53:46.7048 Info Closing old configuration.
+2023-05-30 07:53:46.7223 Info Logger has been closed down.
+2023-05-30 07:54:38.9725 Info Message Template Auto Format enabled
+2023-05-30 07:54:38.9997 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 07:54:39.0740 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 07:54:39.0740 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 07:54:39.0858 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 07:54:39.1117 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 07:54:39.3480 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 07:54:55.2901 Info Shutdown() called. Logger closing...
+2023-05-30 07:54:55.2901 Info Closing old configuration.
+2023-05-30 07:54:55.3032 Info Logger has been closed down.
+2023-05-30 07:55:29.6111 Info Message Template Auto Format enabled
+2023-05-30 07:55:29.6372 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 07:55:29.7524 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 07:55:29.7537 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 07:55:29.7733 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 07:55:29.8098 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 07:55:30.1548 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 07:55:51.5596 Info Shutdown() called. Logger closing...
+2023-05-30 07:55:51.5599 Info Closing old configuration.
+2023-05-30 07:55:51.5760 Info Logger has been closed down.
+2023-05-30 07:56:15.9301 Info Message Template Auto Format enabled
+2023-05-30 07:56:15.9858 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 07:56:16.1407 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 07:56:16.1422 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 07:56:16.1715 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 07:56:16.2069 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 07:56:17.4017 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 07:58:07.3856 Info Message Template Auto Format enabled
+2023-05-30 07:58:07.4374 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 07:58:07.5638 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 07:58:07.5638 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 07:58:07.5954 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 07:58:07.6196 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 07:58:08.8920 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 07:59:24.9645 Info Message Template Auto Format enabled
+2023-05-30 07:59:25.0076 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 07:59:25.0996 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 07:59:25.1005 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 07:59:25.1291 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 07:59:25.1592 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 07:59:26.3801 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 08:00:59.2874 Info Message Template Auto Format enabled
+2023-05-30 08:00:59.3280 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 08:00:59.4270 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 08:00:59.4278 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 08:00:59.4473 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 08:00:59.4710 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 08:01:00.6435 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 08:02:00.5276 Info Message Template Auto Format enabled
+2023-05-30 08:02:00.5611 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 08:02:00.6554 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 08:02:00.6560 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 08:02:00.6671 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 08:02:00.6920 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 08:02:00.9704 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 08:02:23.1163 Info Shutdown() called. Logger closing...
+2023-05-30 08:02:23.1163 Info Closing old configuration.
+2023-05-30 08:02:23.1394 Info Logger has been closed down.
+2023-05-30 08:02:26.2494 Info Message Template Auto Format enabled
+2023-05-30 08:02:26.2730 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 08:02:26.3521 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 08:02:26.3528 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 08:02:26.3645 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 08:02:26.3882 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 08:02:26.6210 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 08:02:57.9958 Info Shutdown() called. Logger closing...
+2023-05-30 08:02:57.9958 Info Closing old configuration.
+2023-05-30 08:02:58.0188 Info Logger has been closed down.
+2023-05-30 08:03:33.8725 Info Message Template Auto Format enabled
+2023-05-30 08:03:33.9290 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 08:03:34.0879 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 08:03:34.0896 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 08:03:34.1243 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 08:03:34.1710 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 08:03:35.3985 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 08:17:23.7631 Info Message Template Auto Format enabled
+2023-05-30 08:17:23.8049 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 08:17:23.9128 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 08:17:23.9128 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 08:17:23.9362 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 08:17:23.9673 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 08:17:25.1230 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 08:21:09.5991 Info Message Template Auto Format enabled
+2023-05-30 08:21:09.6373 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 08:21:09.7612 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 08:21:09.7622 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 08:21:09.7801 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 08:21:09.8183 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 08:21:10.1862 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 08:22:07.5132 Info Shutdown() called. Logger closing...
+2023-05-30 08:22:07.5132 Info Closing old configuration.
+2023-05-30 08:22:07.5271 Info Logger has been closed down.
+2023-05-30 08:33:25.7980 Info Message Template Auto Format enabled
+2023-05-30 08:33:25.8213 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 08:33:25.8978 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 08:33:25.8978 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 08:33:25.9108 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 08:33:25.9381 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 08:33:26.1868 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 08:34:23.1854 Info Shutdown() called. Logger closing...
+2023-05-30 08:34:23.1854 Info Closing old configuration.
+2023-05-30 08:34:23.2046 Info Logger has been closed down.
+2023-05-30 08:34:33.5501 Info Message Template Auto Format enabled
+2023-05-30 08:34:33.6016 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 08:34:33.7454 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 08:34:33.7470 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 08:34:33.7762 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 08:34:33.8212 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 08:34:34.9381 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 09:22:35.7010 Info Message Template Auto Format enabled
+2023-05-30 09:22:35.7265 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 09:22:35.8022 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 09:22:35.8029 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 09:22:35.8141 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 09:22:35.8432 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 09:22:36.0977 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 09:26:30.3372 Info Shutdown() called. Logger closing...
+2023-05-30 09:26:30.3372 Info Closing old configuration.
+2023-05-30 09:26:30.3628 Info Logger has been closed down.
+2023-05-30 09:28:22.5242 Info Message Template Auto Format enabled
+2023-05-30 09:28:22.5501 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 09:28:22.6304 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 09:28:22.6311 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 09:28:22.6427 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 09:28:22.6681 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 09:28:22.9185 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 09:31:02.5919 Info Shutdown() called. Logger closing...
+2023-05-30 09:31:02.5919 Info Closing old configuration.
+2023-05-30 09:31:02.6097 Info Logger has been closed down.
+2023-05-30 09:31:16.4669 Info Message Template Auto Format enabled
+2023-05-30 09:31:16.4923 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 09:31:16.5827 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 09:31:16.5838 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 09:31:16.6015 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 09:31:16.6378 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 09:31:16.9702 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 09:32:26.0705 Info Shutdown() called. Logger closing...
+2023-05-30 09:32:26.0708 Info Closing old configuration.
+2023-05-30 09:32:26.1013 Info Logger has been closed down.
+2023-05-30 09:32:43.9435 Info Message Template Auto Format enabled
+2023-05-30 09:32:43.9680 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 09:32:44.0622 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 09:32:44.0632 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 09:32:44.0757 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 09:32:44.1030 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 09:32:44.3923 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 09:33:06.0610 Info Shutdown() called. Logger closing...
+2023-05-30 09:33:06.0610 Info Closing old configuration.
+2023-05-30 09:33:06.0755 Info Logger has been closed down.
+2023-05-30 10:32:33.8444 Info Message Template Auto Format enabled
+2023-05-30 10:32:33.8834 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-30 10:32:34.0015 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-30 10:32:34.0024 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-30 10:32:34.0205 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-30 10:32:34.0570 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 10:32:34.4091 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-30 10:33:34.9803 Info Shutdown() called. Logger closing...
+2023-05-30 10:33:34.9803 Info Closing old configuration.
+2023-05-30 10:33:34.9965 Info Logger has been closed down.
+2023-05-31 07:14:06.7528 Info Message Template Auto Format enabled
+2023-05-31 07:14:06.7899 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-31 07:14:06.8724 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-31 07:14:06.8724 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-31 07:14:06.8836 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-31 07:14:06.9088 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-31 07:14:07.3421 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-31 07:14:33.0234 Info Shutdown() called. Logger closing...
+2023-05-31 07:14:33.0234 Info Closing old configuration.
+2023-05-31 07:14:33.0403 Info Logger has been closed down.
+2023-05-31 09:06:55.7742 Info Message Template Auto Format enabled
+2023-05-31 09:06:55.8154 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-31 09:06:55.9442 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-31 09:06:55.9453 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-31 09:06:55.9616 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-31 09:06:55.9992 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-31 09:06:56.4408 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-31 09:07:13.0454 Info Shutdown() called. Logger closing...
+2023-05-31 09:07:13.0454 Info Closing old configuration.
+2023-05-31 09:07:13.0614 Info Logger has been closed down.
+2023-05-31 09:33:43.0385 Info Message Template Auto Format enabled
+2023-05-31 09:33:43.0662 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-31 09:33:43.1544 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-31 09:33:43.1553 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-31 09:33:43.1679 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-31 09:33:43.2053 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-31 09:33:43.5579 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-31 09:34:47.8180 Info Shutdown() called. Logger closing...
+2023-05-31 09:34:47.8188 Info Closing old configuration.
+2023-05-31 09:34:47.8404 Info Logger has been closed down.
+2023-05-31 09:35:26.4594 Info Message Template Auto Format enabled
+2023-05-31 09:35:26.4804 Info Loading assembly: NLog.Web.AspNetCore
+2023-05-31 09:35:26.5566 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-05-31 09:35:26.5572 Info Registered target NLog.Targets.ConsoleTarget(Name=lifetimeConsole)
+2023-05-31 09:35:26.5679 Warn Error has been raised. Exception: NLog.NLogConfigurationException: Target 'allfile' not found for logging rule: *.
+2023-05-31 09:35:26.5936 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-31 09:35:26.8765 Info Validating config: TargetNames=lifetimeConsole, ownFile-web, ConfigItems=33, FilePath=/home/oqo0/RiderProjects/AspWebApiGb/AspWebApiGb/bin/Debug/net6.0/nlog.config
+2023-05-31 09:35:45.8378 Info Shutdown() called. Logger closing...
+2023-05-31 09:35:45.8378 Info Closing old configuration.
+2023-05-31 09:35:45.8557 Info Logger has been closed down.

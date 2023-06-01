@@ -1,0 +1,38 @@
+syntax = "proto3";
+
+import "google/protobuf/wrappers.proto";
+
+option csharp_namespace = "AspWebApiGbProto";
+
+package AspWebApiGbProto;
+
+service DepartmentService {
+  rpc CreateDepartment (CreateDepartmentRequest) returns (CreateDepartmentResponse);
+  rpc GetAllDepartments (GetAllDepartmentsRequest) returns (GetAllDepartmentsResponse);
+  rpc DeleteDepartment (DeleteDepartmentRequest) returns (DeleteDepartmentResponse);
+}
+
+message CreateDepartmentRequest {
+  string description = 1;
+}
+
+message CreateDepartmentResponse {
+  google.protobuf.StringValue id = 1;
+}
+
+message GetAllDepartmentsRequest { }
+
+message GetAllDepartmentsResponse {
+  repeated Department departments = 1;
+}
+
+message Department {
+  google.protobuf.StringValue id = 1;
+  string description = 2;
+}
+
+message DeleteDepartmentRequest {
+  google.protobuf.StringValue id = 1;
+}
+
+message DeleteDepartmentResponse { }
